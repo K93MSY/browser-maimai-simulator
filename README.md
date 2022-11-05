@@ -1,2 +1,3 @@
 # browser-maimai-simulator
-using p5.js
+
+#### ブラウザで動作するmaimaiシミュレーター
